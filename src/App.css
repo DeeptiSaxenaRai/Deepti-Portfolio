@@ -1,0 +1,33 @@
+.container {
+  margin: 1em;
+  width: 90%;
+  height: 90vh;
+  text-align: center;
+}
+
+nav {
+  width: 75rem;
+  height: 2.5rem;
+  display: flex;
+  background-color: #6b765e;
+  color: white;
+  font-family: "Labrada", serif;
+  font-size: 1.8rem;
+  justify-content: space-between;
+  padding: 0.8vh;
+}
+
+img {
+  width: 12.5rem;
+}
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}

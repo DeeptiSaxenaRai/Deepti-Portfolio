@@ -1,0 +1,9 @@
+.paletteFirst {
+  --palette-primary-500: #6b765e;
+  --palette-secondary-500: #bdb6b3;
+}
+
+.paletteSecond {
+  --palette-primary-500: #c46969;
+  --palette-secondary-500: #f1e5e5;
+}
