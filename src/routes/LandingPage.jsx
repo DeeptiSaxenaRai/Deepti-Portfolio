@@ -4,7 +4,7 @@ function LandingPage() {
     <div className={style.page}>
       <h1>Hi</h1>
       <h2>I am Deepti Saxena</h2>
-      <img src="./src/assets/Images/deepti.jpg" />
+      <img src="src/assets/Images/deepti.jpg" alt="Deepti-pic" />
       <h4>Front End Developer</h4>
     </div>
   );
